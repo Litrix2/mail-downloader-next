@@ -1,0 +1,5 @@
+[project]
+name = "mail-downloader-next"
+version = "0.1.0a1"
+readme = "README.md"
+requires-python = ">=3.11"
