@@ -2,4 +2,6 @@
 __pycache__
 venv
 temp/
+tests/temptest.py
+mail-downloader-next/config/_config.toml
 !.gitignore

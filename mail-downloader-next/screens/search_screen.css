@@ -1,0 +1,9 @@
+SearchScreen .header {
+    height: auto;
+    background: $primary-background-darken-1;
+    padding: 1;
+}
+
+SearchScreen Button {
+    margin-right: 1;
+}
